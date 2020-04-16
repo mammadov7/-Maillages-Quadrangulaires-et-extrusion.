@@ -1,0 +1,10 @@
+Sous Linux:
+    installer: Qt(qtdefault) + qtcreator
+
+Sur MacOS/X
+    installer xcode + Qt5.x
+
+Windows 7/8/10(64b)
+    installer VS2015/2017 community + Qt5.x pour VS2015_x64/VS2017_x64
+
+
